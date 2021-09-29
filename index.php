@@ -76,6 +76,13 @@
                             </a>
                         </li>
                     </ul>
+                    <ul>
+                        <li>
+                            <a href="exercicio.php?dir=tipos&file=string">
+                                String
+                            </a>
+                        </li>
+                    </ul>
                 </div>
                 <div class="modulo azul">
                     <h3>Módulo 03 </h3>
