@@ -92,11 +92,24 @@
                     </ul>
                 </div>
                 <div class="modulo azul">
-                    <h3>Módulo 03 </h3>
+                    <h3>Variáveis</h3>
                     <ul>
-                        <li><a href="#">Exercícios A</a></li>
-                        <li><a href="#">Exercícios B</a></li>
-                        <li><a href="#">Exercícios C</a></li>
+                        <li>
+                            <a href="exercicio.php?dir=variaveis&file=basico">
+                                Basico
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=variaveis&file=desafio_equacao">
+                                Desafio Equação
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=variaveis&file=atribuicoes">
+                                Atribruições
+                            </a>
+                        </li>
+                        
                     </ul>
                 </div>
                 <div class="modulo roxo">
