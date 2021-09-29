@@ -1,0 +1,9 @@
+echo = imprime na tela.
+<?=""?> = imprime na tela.
+<br> = quebra de linha em html.
+phpinfo() = imprime a versão na tela.
+
+
+duplicar no vscod = alt + shift + para baixo ou p cima.
+apagar uma linha = ctrl + shift + K.
+mover linha = alt + para cima ou p baixo.
